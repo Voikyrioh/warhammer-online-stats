@@ -1,6 +1,21 @@
-# CLAUDE.md
+# fiche-perso-jdr — Guide pour Claude
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+## Lire en premier
+
+1. **ARCHITECTURE.md** — carte du code.
+2. **docs/INDEX.md** — point d'entrée docs.
+
+## Rôle du repo
+
+Fiche de personnage JDR interactive. Vue 3 frontend avec sections multiples (armure, équipement, compétences, dés).
+
+## Skills obligatoires
+
+- `/code-search` — localiser composants.
+- `/dev-task` — implémentation.
+- `/doc-update` — maintenir docs.
+
+---
 
 ## Project
 
